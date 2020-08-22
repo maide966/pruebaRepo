@@ -1,0 +1,12 @@
+footer{
+    width: 100%;
+}
+
+.iconosredes{
+    text-align: center;
+}
+
+.ajustesicono{
+    display: inline-flex;
+    margin: 50px 35px;
+}
